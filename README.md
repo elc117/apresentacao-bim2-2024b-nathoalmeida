@@ -170,7 +170,7 @@ public class TesteSuaClasse {
 
 ​	O código foi compilado e executado na linha de comando, produzindo o seguinte resultado:
 
- 	![https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png](https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png)
+![https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png](https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png)
 
 	## Referências
 
