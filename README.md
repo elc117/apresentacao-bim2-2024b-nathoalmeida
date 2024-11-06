@@ -121,7 +121,7 @@ public class Livro {
                 emprestimos++;
                 livro.setStatus(false);
                 System.out.println("Livro " + "\"" +livro.getNome()+ "\"" + " retirado com sucesso");
-                // concatenar essas Strings com aspas no meio foi um inferno
+                // concatenar essas Strings com aspas no meio foi o terror
             } else {
                 System.out.println("Você atingiu o limite de empréstimos");
             }
@@ -145,4 +145,29 @@ public void devolveLivro(Livro livro) {
 
 ## Teste das classes
 
-​	
+​	Foi criada uma classe, denominada TesteSuaClasse, com o método *main*, que instanciará os objetos e testará a funcionalidade dos métodos criados.
+
+```java
+public class TesteSuaClasse {
+
+    public static void main(String[] args) {
+        Livro l1 = new Livro("Torto Arado");
+        Livro l2 = new Livro("A filha perdida");
+        Livro l3 = new Livro("Colonialismo Digital");
+
+        Aluno a1 = new Aluno("Nathália", "201130083");
+
+        a1.retiraLivro(l1);
+        a1.retiraLivro(l2);
+        a1.retiraLivro(l3); // testa o limite de empréstimos
+        a1.devolveLivro(l2);
+        a1.retiraLivro(l3);
+        a1.retiraLivro(l1); // tenta retirar um livro que já está retirado
+        a1.devolveLivro(l1);
+    }
+}
+```
+
+​	O código foi compilado e executado na linha de comando, produzindo o seguinte resultado:
+
+ 
