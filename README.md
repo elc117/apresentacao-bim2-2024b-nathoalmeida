@@ -172,7 +172,11 @@ public class TesteSuaClasse {
 
 ![https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png](https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png)
 
-	## Referências
+
+
+	## 
+
+## Referências
 
 - Material da disciplina;
 - https://www.guj.com.br/t/colocar-aspas-dentro-da-string/89165 (sim, eu não estava conseguindo colocar as aspas dentro da String).
