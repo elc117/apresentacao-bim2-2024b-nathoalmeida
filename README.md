@@ -170,4 +170,11 @@ public class TesteSuaClasse {
 
 ​	O código foi compilado e executado na linha de comando, produzindo o seguinte resultado:
 
- 
+ 	![https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png](https://github.com/elc117/apresentacao-bim2-2024b-nathoalmeida/blob/master/ex-execucao.png)
+
+	## Referências
+
+- Material da disciplina;
+- https://www.guj.com.br/t/colocar-aspas-dentro-da-string/89165 (sim, eu não estava conseguindo colocar as aspas dentro da String).
+
+​	
